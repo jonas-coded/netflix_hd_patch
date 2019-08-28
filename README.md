@@ -1,5 +1,5 @@
 # Netflix HD Patch APK
-STATUS: Project paused due to technical difficulties. Latest Version not working (Login not working)
+STATUS: No newer App versions in sight because of technical restrictions. Compatibility version is working.
 Patched Netflix App for Android enabling Widevine L1 allowing not certified devices to play in HD quality.
 
 ## Copyright
