@@ -1,6 +1,6 @@
 # Netflix HD Patch APK
 STATUS: No newer App versions in sight because of technical restrictions. Compatibility version is working.
-Patched Netflix App for Android enabling Widevine L1 allowing not certified devices to play in HD quality.
+Patched Netflix App for Android enabling Widevine L1 allowing not certified devices to play in HD quality. *The device has to support Widevine L1 though.*
 
 ## Copyright
 APK was modified with xda User GuillaumeBarberousses script. Link: https://forum.xda-developers.com/showpost.php?p=72178861&postcount=2
